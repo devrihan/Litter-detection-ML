@@ -25,7 +25,7 @@ This project implements a machine learning model using OpenCV to detect trash ov
 
    ```bash
    git clone https://github.com/devrihan/Litter-detection-ML.git
-   cd litter-detection-bins
+   cd Litter-detection-ML
    ```
 
 2. Set up your AWS credentials and configure S3.
